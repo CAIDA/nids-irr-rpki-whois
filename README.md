@@ -1,10 +1,12 @@
 README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-download.md) | [Task 2A Guide](Task-greedy.md) | [Task 2B Guide](Task-classify.md) | [Notebook](nids-irr-rpki-whois.ipynb)
 
-### Network Infrastructure Data Science (NIDS) Module
+### [Network Infrastructure Data Science (NIDS) Assignment](https://www.caida.org/projects/nids/)
 
 ---
 
 # Regional Internet Registry, IRR, and RPKI
+**author**: Bradley Huffaker, Nick Nerrel
+
 
 ## Learning Objectives
 
