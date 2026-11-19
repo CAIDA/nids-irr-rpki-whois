@@ -5,7 +5,7 @@ README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [Tasks]
 ---
 
 # Regional Internet Registry, IRR, and RPKI
-**author**: Bradley Huffaker, Nick Nerrel
+**author**: Ben Du (Student), Bradley Huffaker, Nick Nerrel
 
 
 ## Learning Objectives
